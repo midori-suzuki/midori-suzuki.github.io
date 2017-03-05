@@ -1,0 +1,36 @@
+body {
+    font-size: 16px;
+    background-color: #fff;
+}
+
+header {
+    background-image: url("IMG_4663.JPG");
+    background-repeat: no-repeat;
+    padding-bottom: 450px;
+}
+
+nav {
+  margin: 0;
+  padding: 10px 10px;
+  font-weight: bold;
+}
+
+.selected {
+    color: #000;
+}
+
+.container {
+    max-width: 800px;
+    padding: 20px 0;
+}
+
+h3 {
+    color: #999;
+}
+
+footer {
+    text-align: center;
+    color: #fff;
+    background-color: #999;
+    padding: 20px
+}
