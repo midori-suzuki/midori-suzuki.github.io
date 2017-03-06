@@ -15,10 +15,6 @@ nav {
   font-weight: bold;
 }
 
-.selected {
-    color: #000;
-}
-
 .container {
     max-width: 800px;
     padding: 20px 0;
